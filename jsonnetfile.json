@@ -9,24 +9,6 @@
         }
       },
       "version": "master"
-    },
-    {
-      "source": {
-        "git": {
-          "remote": "https://github.com/ksonnet/ksonnet-lib",
-          "subdir": "ksonnet.beta.4"
-        }
-      },
-      "version": "master"
-    },
-    {
-      "source": {
-        "git": {
-          "remote": "https://github.com/malcolmholmes/odoko-libsonnet",
-          "subdir": "mysql"
-        }
-      },
-      "version": "master"
     }
   ],
   "legacyImports": true
